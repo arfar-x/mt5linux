@@ -1,3 +1,5 @@
+[![Upload Python Package](https://github.com/arfar-x/mt5linux/actions/workflows/python-publish.yml/badge.svg)](https://github.com/arfar-x/mt5linux/actions/workflows/python-publish.yml)
+
 # MetaTrader 5 for linux system
 
 A simple package that uses [wine](https://www.winehq.org), [rpyc](https://github.com/tomerfiliba-org/rpyc) and a Python Windows version to allow using [MetaTrader5](https://pypi.org/project/MetaTrader5) on Linux.
